@@ -1,0 +1,6 @@
+c:\users\trident mt581\documents\visual studio 2015\Projects\Extension Method Example\Extension Method Example\bin\Debug\Extension Method Example.exe.config
+c:\users\trident mt581\documents\visual studio 2015\Projects\Extension Method Example\Extension Method Example\obj\Debug\Extension Method Example.csprojResolveAssemblyReference.cache
+c:\users\trident mt581\documents\visual studio 2015\Projects\Extension Method Example\Extension Method Example\bin\Debug\Extension Method Example.exe
+c:\users\trident mt581\documents\visual studio 2015\Projects\Extension Method Example\Extension Method Example\bin\Debug\Extension Method Example.pdb
+c:\users\trident mt581\documents\visual studio 2015\Projects\Extension Method Example\Extension Method Example\obj\Debug\Extension Method Example.exe
+c:\users\trident mt581\documents\visual studio 2015\Projects\Extension Method Example\Extension Method Example\obj\Debug\Extension Method Example.pdb
